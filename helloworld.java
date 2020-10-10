@@ -5,6 +5,7 @@ public class helloworld {
 		
 		System.out.printf("Hello World!\n");
 		
+		System.out.printf("Hello Europe!\n");
 
 	}
 
