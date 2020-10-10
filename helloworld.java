@@ -7,6 +7,8 @@ public class helloworld {
 		
 		System.out.printf("Hello Europe!\n");
 
+		System.out.printf("Hello Asia!\n");
+
 	}
 
 }
